@@ -1,3 +1,10 @@
 # CoastalHeadlands
 
-*Coastal Headlands* is a numerical modelling study investigating the impacts of a coastal headland on nearshore hydrodynamics. The research is still in prepapration so the detailed results regarding this research will be updated soon. To show the basic set-up of this modelling research, the settings of a reference scenario can be found in this repository. 
+*Coastal Headlands* is a numerical modelling study investigating the impacts of a coastal headland on nearshore hydrodynamics. Here, a basic set-up of this modelling research is introduced. More detailed results regarding this research will be updated soon.
+
+## Highlights
+This part wil be updated soon since the research is under review.
+
+## Contacts
+For any potential questions or suggestions, please contact me through the email (danghan@bu.edu).
+
