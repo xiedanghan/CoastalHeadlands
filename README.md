@@ -8,3 +8,6 @@ This part wil be updated soon since the research is under review.
 ## Contacts
 For any potential questions or suggestions, please contact me through the email (danghan@bu.edu).
 
+Sincerely,<br/>
+Danghan Xie<br/>
+28th Apr., 2023 
