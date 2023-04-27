@@ -1,0 +1,117 @@
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'SeaW10414-1219      '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'SeaW1219-A          '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 3'
+contents             'Uniform   '
+location             'SeaE9086-1003       '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 4'
+contents             'Uniform   '
+location             'SeaE1275-9086       '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 5'
+contents             'Uniform   '
+location             'SeaE8967-1275       '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 6'
+contents             'Uniform   '
+location             'SeaSouth            '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 7'
+contents             'Uniform   '
+location             'Flow1               '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 8'
+contents             'Uniform   '
+location             'Flow2               '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000
+table-name           'Boundary Section : 9'
+contents             'Uniform   '
+location             'Flow3               '
+time-function        'non-equidistant'
+reference-time       19910816
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'SedimentMed          end A uniform'       unit '[kg/m3]'
+parameter            'SedimentMed          end B uniform'       unit '[kg/m3]'
+records-in-table     2
+ 0.0000000e+000  0.0000000e+000  0.0000000e+000
+ 8.8200000e+003  0.0000000e+000  0.0000000e+000

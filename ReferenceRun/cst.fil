@@ -1,0 +1,47 @@
+Domain, Checked : No        
+     Grid                  : flow40_80Silke.grd
+     Grid enclosure        : flow40_80Silke.enc
+     Bathymetry            : flow40_80Silke.dep
+     Dry points            : none
+     Thin dams             : none
+
+Time frame, Checked : No        
+
+Processes, Checked : Yes       
+
+Initial conditions, Checked : Yes       
+
+Boundaries, Checked : Yes       
+     Boundary definitions  : cst.bnd
+     Astronomical flow conditions : none
+     Astronomical corrections : none
+     Harmonic flow conditions : none
+     QH-relation flow conditions : none
+     Time series flow conditions : cst.bct
+     Transport conditions  : cst.bcc
+
+Physical parameters, Checked : Yes       
+     Roughness coefficients : none
+     Hor. viscosity/diffusivity : none
+     Heat flux model data  : none
+     Sediment data         : cst.sed
+     Morphology data       : cst.mor
+     Uniform wind data     : none
+     Space varying wind data : none
+
+Numerical parameters, Checked : No        
+
+Operations, Checked : No        
+     Discharge definitions : none
+     Discharge data        : none
+     Dredging and dumping data : none
+
+Monitoring, Checked : No        
+     Observation points    : none
+     Drogues               : none
+     Cross-sections        : none
+
+Additional parameters, Checked : No        
+
+Output, Checked : No        
+     Fourier analysis data : none
