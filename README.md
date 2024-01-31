@@ -6,7 +6,7 @@
 ## Highlights
 ###### 1. Circulation Cells Formed Around Coastal Headland
 <p align="center" width="100%">
-    <img src="figs/Fig.1_domain and main parameters5.tif" width="400">
+    <img src="figs/Fig.1_domain and main parameters5_GitHub.png" width="400">
 </p>
 This part wil be updated soon since the research is under review.
 
