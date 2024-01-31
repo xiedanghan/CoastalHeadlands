@@ -23,6 +23,28 @@
     Figure 2. Changes in Wave Height, Velocity, and Bed Shear Stress Under Different Sea-Level Rise Scenarios. 
 </div> 
 
+###### 3. Higher Storm Waves Expand the Surf Zone, Shift Circulation Cells Seaward
+<p align="center" width="100%">
+    <img src="figs/Fig.3_v1-median2GitHub.png" width="600">
+</p>
+
+<div align="center">
+    Figure 3. Changes in Wave Height, Velocity, and Bed Shear Stress Under Different Scenarios of Storm Waves. 
+</div> 
+
+
+###### 4. Higher Storm Waves Enhance Potential Headland Sediment Bypassing
+<p align="center" width="100%">
+    <img src="figs/potential_Sed_Flux4.png" width="600">
+</p>
+
+<div align="center">
+    Figure 4. Potential Sediment Flux Along the Transect in Front of the Headland Under Different SLR Scenarios (a) and Higher Storm Wave Scenarios (b). 
+</div> 
+
+
+
+
 ## Contacts
 For any potential questions or suggestions, please contact me through the email (danghan@bu.edu).
 
