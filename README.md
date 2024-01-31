@@ -10,7 +10,17 @@
 </p>
 
 <div align="center">
-  **Figure 1.** Model regions in the study area (Western Buzzards Bay, MA, USA), boundary conditions and key hydrodynamic parameters around the headland during the present-day storm conditions. 
+    Figure 1. Model regions in the study area (Western Buzzards Bay, MA, USA), boundary conditions and key hydrodynamic parameters around the headland during the present-day storm conditions. 
+</div> 
+
+
+###### 2. Sea-Level Rise Increases Wave Heights, Currents, and Bed Shear Stress in the Nearshore Because of Landward Shifting of the Circulation Cells
+<p align="center" width="100%">
+    <img src="figs/Fig.2_v3-median2GitHub.png" width="800">
+</p>
+
+<div align="center">
+    Figure 2. Changes in Wave Height, Velocity, and Bed Shear Stress Under Different Sea-Level Rise Scenarios. 
 </div> 
 
 ## Contacts
