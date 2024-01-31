@@ -4,7 +4,9 @@
 *Coastal Circulation Cells Around Headland* is a numerical modelling study investigating the impacts of a coastal headland on nearshore hydrodynamics. Here, a basic set-up of this modelling research is introduced. More detailed results regarding this research can be freely accssed through the link: https://doi.org/10.1029/2023GL105323.
 
 ## Highlights
-###### 1. The Formation of Circulation Cells and Wave Energy Convergence Around Headlands During Storms Reduce Bottom Shear Stress at the Beach
+> [!Role of Circulation Cells]
+> The Formation of Circulation Cells and Wave Energy Convergence Around Headlands During Storms Reduce Bottom Shear Stress at the Beach
+
 <p align="center" width="100%">
     <img src="figs/Fig.1_domain and main parameters5_GitHub.png" width="600">
 </p>
@@ -42,8 +44,7 @@
     Figure 4. Potential Sediment Flux Along the Transect in Front of the Headland Under Different SLR Scenarios (a) and Higher Storm Wave Scenarios (b). 
 </div> 
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+
 
 
 ## Contacts
