@@ -1,0 +1,6 @@
+SeaWest              N H     1   167     1     2  0.0000000e+000
+SeaEast              N H   469   360   469     2  0.0000000e+000
+SeaSouth             Z T     2     1   468     1  0.0000000e+000
+Flow1                T T    77   389    77   389  0.0000000e+000 Uniform             
+Flow2                T T   186   389   214   389  0.0000000e+000 Uniform             
+Flow3                T T   326   389   328   389  0.0000000e+000 Uniform             
