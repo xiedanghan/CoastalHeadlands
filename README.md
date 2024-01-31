@@ -42,7 +42,8 @@
     Figure 4. Potential Sediment Flux Along the Transect in Front of the Headland Under Different SLR Scenarios (a) and Higher Storm Wave Scenarios (b). 
 </div> 
 
-
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 
 ## Contacts
