@@ -1,5 +1,4 @@
 # Coastal Circulation Cells Around Headland
-[![DOI](https://doi.org/10.1029/2023GL105323)](https://doi.org/10.1029/2023GL105323)
 
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.8122222.svg)](http://dx.doi.org/10.5281/zenodo.8122222)
 
