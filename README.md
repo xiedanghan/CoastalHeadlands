@@ -6,7 +6,7 @@
 ## Highlights
 ###### 1. The Formation of Circulation Cells and Wave Energy Convergence Around Headlands During Storms Reduce Bottom Shear Stress at the Beach
 <p align="center" width="100%">
-    <img src="figs/Fig.1_domain and main parameters5_GitHub.png" width="800">
+    <img src="figs/Fig.1_domain and main parameters5_GitHub.png" width="600">
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ###### 2. Sea-Level Rise Increases Wave Heights, Currents, and Bed Shear Stress in the Nearshore Because of Landward Shifting of the Circulation Cells
 <p align="center" width="100%">
-    <img src="figs/Fig.2_v3-median2GitHub.png" width="800">
+    <img src="figs/Fig.2_v3-median2GitHub.png" width="600">
 </p>
 
 <div align="center">
