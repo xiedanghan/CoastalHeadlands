@@ -45,7 +45,7 @@
 
 ###### 5. Increase in Velocity or Bed Shear Stress due to SLR is Balanced By Increasing Wave Height, leading to minimal changes in these two variables under certain combinations. Hence, the Combinations of SLR and Wave Height are of Critical Importance in Determining Hydrodynamic Changes Along the Beach in the Future
 <p align="center" width="100%">
-    <img src="figs/SLR vs. WaveGitHub.png.png" width="600">
+    <img src="figs/SLR vs. WaveGitHub.png" width="600">
 </p>
 
 <div align="center">
