@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  Figure 1. Model regions in the study area (Western Buzzards Bay, MA, USA), boundary conditions and key hydrodynamic parameters around the headland during the present-day storm conditions. 
+  **Figure 1**. Model regions in the study area (Western Buzzards Bay, MA, USA), boundary conditions and key hydrodynamic parameters around the headland during the present-day storm conditions. 
 </div> 
 
 ## Contacts
