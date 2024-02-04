@@ -54,7 +54,7 @@
 </div> 
 
 ## Contacts
-For any potential questions or suggestions, please contact me through the email (danghan@bu.edu).
+For any potential questions or suggestions, please contact me through the email (xiedanghan@gmail.com).
 
 Sincerely,<br/>
 Danghan Xie<br/>
