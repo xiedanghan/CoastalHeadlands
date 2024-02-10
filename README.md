@@ -8,7 +8,7 @@
 ###### 1. The Formation of Circulation Cells and Wave Energy Convergence Around Headlands During Storms Reduce Bottom Shear Stress at the Beach
 
 <p align="center" width="100%">
-    <img src="figs/Fig.1_domain and main parameters5_GitHub.png" width="600">
+    <img src="figs/Fig.1_domain and main parameters7_GitHub.png" width="600">
 </p>
 
 <div align="center">
